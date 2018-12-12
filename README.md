@@ -10,4 +10,6 @@ Name | Organization | E-mail
 [Kang Jun Ha](https://github.com/kangjunha) | Ajou University | pointjunha@naver.com
 [Kim Dong Hui](https://github.com/rookie0806) | Ajou University | jbshs2013@naver.com
 [Myeong Seung Ju](https://github.com/4lvita) | Ajou University | aegc123@naver.com
+Kwon Yohan | Ajou University | dygks8989@naver.com
+Jang Yu-Hwan | Ajou University | jyh7461@ajou.ac.kr
 
