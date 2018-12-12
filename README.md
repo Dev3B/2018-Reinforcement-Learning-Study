@@ -12,4 +12,5 @@ Name | Organization | E-mail
 [Myeong Seung Ju](https://github.com/4lvita) | Ajou University | aegc123@naver.com
 Kwon Yohan | Ajou University | dygks8989@naver.com
 Jang Yu-Hwan | Ajou University | jyh7461@ajou.ac.kr
-
+Kang Inho | Ajou University | eddie3338@naver.com
+Lee Han Gyeol | Ajou University | leehg3770@naver.com
